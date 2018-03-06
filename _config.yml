@@ -1,0 +1,34 @@
+# site details
+title: Alexandre Teles
+tag_line: O estranho misterioso
+description: "No one ever discovers the dephts of his own loneliness..."
+keywords: alexteles alexandre teles kabbalista afterSt0rm
+url: https://alexteles.com
+author: Alexandre Teles
+author_url: http://alexteles.com
+
+# preferences
+markdown: kramdown
+highlighter: rouge
+timezone: America/Bahia
+
+# building
+lsi: true
+incremental: true
+
+# exclusions
+exclude: [README.md]
+
+# collections
+collections:
+  category:
+    output: true
+
+# defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
