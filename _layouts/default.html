@@ -7,17 +7,10 @@
 		<link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml" title="{{ site.title }} Blog Feed" />
 
 		<!-- page -->
-		<title>{{ site.title }} | {{ site.tag_line }}</title>
+		<title>{{ site.title }} :: {{ site.tag_line }}</title>
 		<meta name="author" content="{{ site.author }}">
 		<meta name="description" content="{{ site.description }}">
 		<meta name="keywords" content="{{ site.keywords }}">
-
-		<!-- fonts -->
-		<link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono" rel="stylesheet">
-
-		<!-- styles -->
-		<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/main.css">
-		<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/default.css">
 	</head>
 
 	<body>
@@ -32,6 +25,7 @@
 
 			<div id="footer" class="grey">
 				<ul class="navigation">
+					<li><a href="{{ site.url }}">início</a></li>
 					<li><a href="{{ site.url }}/sobre">sobre</a></li>
 					<li><a href="{{ site.url }}/categorias">categorias</a></li>
 					<li><a href="{{ site.url }}/arquivos">arquivos</a></li>
@@ -39,5 +33,8 @@
 				</ul>
 			</div>
 		</div>
+		<!-- styles -->
+		{% asset default.css @inline %}
+		{% asset main.css @inline %}
 	</body>
 </html>
