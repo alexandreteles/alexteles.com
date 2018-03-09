@@ -5,7 +5,12 @@ layout: default
 {% for post in site.posts %}
 	{% if post.next.url == null %}
 		<h1>{{ post.title }}</h1>
-		<p class="center grey"><small>by <a href="{{ site.author_url }}" target="_blank">{{ site.author }}</a></small></p>
+		<p class="center grey">
+				<small>
+					by <a href="{{ site.author_url }}" target="_blank">{{ site.author }}</a>
+					 | {% assign words = post.content | number_of_words %}{% if words < 360 %}1 min{% else %}{{ words | divided_by:180 }} mins{% endif %} de leitura
+				</small>
+			</p>
 
 		{{ post.content }}
 

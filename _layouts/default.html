@@ -6,6 +6,15 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml" title="{{ site.title }} Blog Feed" />
 
+		<!-- open graph -->
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:site" content="{{ site.url }}" />
+		<meta name="twitter:creator" content="{{ site.author }}" />
+		<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+		<meta property="og:title" content="{% if page.title %}{{ page.title }}{% elsif post.title %}{{ post.title }}{ % else %}{{ site.title }}{% endif %}" />
+		<meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif post.description %}{{ post.description }}{ % else %}{{ site.description }}{% endif %}" />
+		<meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}{{ post.image }}{% endif %}" />
+
 		<!-- page -->
 		<title>{{ site.title }} :: {{ site.tag_line }}</title>
 		<meta name="author" content="{{ site.author }}">

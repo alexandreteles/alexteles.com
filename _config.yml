@@ -12,6 +12,10 @@ markdown: kramdown
 highlighter: rouge
 timezone: America/Bahia
 
+# kramdown preferences
+kramdown:
+  input: GFM
+
 # plugins
 plugins:
   - jekyll-feed
@@ -20,7 +24,7 @@ plugins:
 
 # building
 lsi: false
-incremental: true
+incremental: false
 
 # exclusions
 exclude: [README.md]
@@ -65,7 +69,7 @@ caching:
   remove_input_attributes: false
   remove_javascript_protocol: false
   remove_http_protocol: true
-  remove_https_protocol: true
+  remove_https_protocol: false
   preserve_line_breaks: false
   simple_boolean_attributes: false
   compress_js_templates: true

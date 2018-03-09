@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Nosso primeiro post?"
-date:   2018-03-06 01:14:13 -0300
+description: "Um post de teste só pra ver se a bagaça funciona"
+image: "https://i.imgur.com/pQB3b9v.png"
+date: 2018-03-06 01:14:13 -0300
 categories: geral
 ---
 

@@ -27,6 +27,8 @@ scope: styles exclusive to the default template;
 /* plus additional padding to cover the buttons that are set to an absolute position and are not recognised automatically */
 #content {
 	padding-bottom: 6em;
+	text-align: justify;
+	text-justify: auto;
 }
 
 #footer {
