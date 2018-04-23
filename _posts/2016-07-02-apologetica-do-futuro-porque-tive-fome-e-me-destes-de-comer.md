@@ -39,9 +39,7 @@ Quando li isso, seu Manoel, despenquei em lágrimas. Tá aqui ó, o papel todo m
 
 Dom Antônio então leu para José, de sua bíblia já muito gasta, a liturgia do dia:
 
-    Então o Rei dirá aos que estão à direita: – Vinde, benditos de meu Pai, tomai posse do Reino que vos está preparado desde a criação do mundo, porque tive fome e me destes de comer; tive sede e me destes de beber; era peregrino e me acolhestes; nu e me vestistes; enfermo e me visitastes; estava na prisão e viestes a mim.
-
-    São Mateus 25, 34-36
+*Então o Rei dirá aos que estão à direita: – Vinde, benditos de meu Pai, tomai posse do Reino que vos está preparado desde a criação do mundo, porque tive fome e me destes de comer; tive sede e me destes de beber; era peregrino e me acolhestes; nu e me vestistes; enfermo e me visitastes; estava na prisão e viestes a mim.* São Mateus 25, 34-36
 
 Viu um brilho tão intenso nos olhos de José, que a cada minuto se admirava mais com a beleza daquele Deus imenso, que havia chegado faminto, sedento, desterrado, despido, doente, preso à carne; assim como ele que agora estava ali na frente do meu amado irmão, que após uma longa vênia abria o tabernáculo onde habitava aquele amor tão grande. José, instintivamente ajoelhou-se e rezou. Dom Antônio, enquanto preparava no Altar o repouso do pequeno cibório, explicava os eventos da Santa Ceia e da Paixão de Cristo, para aquele que seria até o fim de sua vida, seu ouvinte mais atento.
 
