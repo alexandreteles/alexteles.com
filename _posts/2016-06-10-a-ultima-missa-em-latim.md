@@ -102,4 +102,5 @@ Súbito, a chuva passou. Seu Ludinho, olhando para uma poça d’água, viu nela
 E os santos e os homens, em suas falas e profundidades, também seriam confundidos com outros homens e outros santos que, dia após dia, com latim ou sem latim, haveriam de perceber que, por mais que as coisas mudem, nunca mudam as agulhas, os camelos, e os que aos céus não chegarão; apesar da previsão do professor, do próprio Zé Margarida e até mesmo das palavras de Monsenhor que, no fundo, bem no fundo, nunca se sabe. Ou sabe alguém?
 
 *De Renato Sampaio*
+
 *Transcrito de Contos de bom humor. (Parte II – Outros Contos) – Belo Horizonte, 2007. Edições Hematita, 128 páginas*

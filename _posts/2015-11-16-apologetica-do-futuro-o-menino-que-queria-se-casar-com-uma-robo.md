@@ -4,7 +4,7 @@ title: "Apologética do Futuro: o menino que queria se casar com uma robô"
 description: "Os protagonistas da aliança matrimonial são um homem e uma mulher batizados..."
 image: "https://i.imgur.com/xrH4vzY.jpg"
 date: 2015-12-03 22:41:13 -0300
-categories: apologética
+categories: apologetica
 ---
 
 Definitivamente não é fácil ser um padre católico nestes tempos. São cinquenta anos de ordenação, oitenta de católico e mais de 100 anos de vida seu Manoel. Estamos no ano 2100 e o povo ainda me aparece com essas perguntas absurdas? Ah seu Manoel, parece o tempo em que os Católicos discutiam se homem pode casar com homem, vê se pode? Hoje mesmo apareceu um jovenzinho aqui na paróquia, disse que queria conversar. Eu o recebi no meu escritório e eis que ele começa:
@@ -39,7 +39,7 @@ O que eu fiz seu Manoel? Peguei o catecismo oras. Não ia perder tempo explicand
 
 – Eu não disse que você não ama criatura, eu falei que esse amor que você sente não é o amor de esposos. É um amor que não pode dar frutos senão pelas obras do homem meu filho. Deus falou através da Igreja no catecismo aqui ó:
 
-    §1625 Os protagonistas da aliança matrimonial são um homem e uma mulher batizados, livres para contrair o Matrimônio e que expressam livremente seu consentimento. […]
+*"§1625 Os protagonistas da aliança matrimonial são um homem e uma mulher batizados, livres para contrair o Matrimônio e que expressam livremente seu consentimento."*
 
 – Tá vendo, homem e mulher! Nada de homem com homem, mulher com mulher, gente com robô, cachorro ou o diabo que seja. É um homem e uma mulher. Eu entendo que você se sinta apaixonado e que tenha sentido prazer nessa relação, mas a ordem das coisas de Deus não muda. Nem a Igreja pode mudar. E se eu bem te conheço, tu é CA-TÓ-LI-CO, viril, e tem coragem pra escolher Jesus.
 

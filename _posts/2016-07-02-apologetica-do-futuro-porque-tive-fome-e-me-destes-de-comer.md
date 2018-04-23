@@ -4,7 +4,7 @@ title: "Apologética do Futuro – 'porque tive fome e me destes de comer…'"
 description: "Mesmo com a sede e a fome estava lá, fiel ao ministério de orar pelo povo e pelo mundo..."
 image: "https://i.imgur.com/XHOQDYX.jpg"
 date: 2016-07-02 22:41:13 -0300
-categories: apologética
+categories: apologetica
 ---
 
 Sabe seu Manoel, lá pelos idos dos anos 2016 eu ainda tinha alguma esperança de que as coisas iriam melhorar. Eram tempos difíceis, o senhor bem se lembra… Eu, que nessas alturas ainda era um jovem estudante, achava que a tecnologia seria a grande graça dada por Deus para vivermos bem nesse mundo. Olha só, que tristeza: acreditando nas obras dos homens. O senhor sabe que eu cheguei a militar nessas causas? Acreditava piamente que a fome acabaria, que as doenças deixariam de existir. O fato é, cá estamos no ano 2100 e as coisas só pioraram. Aliás, melhoraram só para os abastados…
@@ -15,7 +15,7 @@ Ontem pela manhã, quando o carteiro passou por aqui me gritando, deixou uma car
 
 Parecia amá-la tanto, veja como a descreve:
 
-    Uma igrejola de uns 5 metros de altura (a maior parte deles devido à sua torrezinha com um sino), que havia de ser branca antes da ventania de areia deixar-lhe apenas o cimento nas paredes. Sem janelas e com apenas uma porta de madeira que se nega a deixar-se comer pelo tempo. Ainda azul por dentro, no presbitério elevado por um único degrau de mármore branco, há apenas um altar unido à parede com um sacrário no meio. O altar ainda conserva, logo acima do sacrário de bronze já desgastado (onde figura um cordeirinho imolado, encimado por uma bela cruz), uma imagem em estilo barroco de Nossa Senhora das Graças (mas que parece ser uma impressão 3D em plástico). Seus quatro bancos de madeira, separados em duas filas, ainda mantém seus genuflexórios intactos.
+*Uma igrejola de uns 5 metros de altura (a maior parte deles devido à sua torrezinha com um sino), que havia de ser branca antes da ventania de areia deixar-lhe apenas o cimento nas paredes. Sem janelas e com apenas uma porta de madeira que se nega a deixar-se comer pelo tempo. Ainda azul por dentro, no presbitério elevado por um único degrau de mármore branco, há apenas um altar unido à parede com um sacrário no meio. O altar ainda conserva, logo acima do sacrário de bronze já desgastado (onde figura um cordeirinho imolado, encimado por uma bela cruz), uma imagem em estilo barroco de Nossa Senhora das Graças (mas que parece ser uma impressão 3D em plástico). Seus quatro bancos de madeira, separados em duas filas, ainda mantém seus genuflexórios intactos.*
 
 Sei que não pôde demorar muito falando dela como queria, disse-me que havia pouco papel e pouca tinta, e que desejava relatar algo que acontecera com ele poucos dias antes de escrever a carta. Explicou-me que naquela região os bancos da Igreja, que já não são muitos, nunca viam mais do que uma ou duas pessoas nas missas dominicais. Por vezes não podia distribuir a comunhão porque – que dificuldade! – celebrava com apenas umas gotas de vinho velho e um pequeno pedaço de pão.
 
