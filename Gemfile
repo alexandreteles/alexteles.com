@@ -5,6 +5,7 @@ gem "bundle"
 gem "rouge"
 gem "tzinfo-data"
 gem "wdm"
+gem 'html-proofer'
 
 group :jekyll_plugins do
   gem "jekyll-feed"
