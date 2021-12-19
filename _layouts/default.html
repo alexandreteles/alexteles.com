@@ -1,49 +1,69 @@
 <!doctype html>
-<html>
-	<head>
-		<!-- tech -->
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml" title="{{ site.title }} Blog Feed" />
+<html lang="pt-br">
 
-		<!-- open graph -->
-		<meta name="twitter:card" content="summary" />
-		<meta name="twitter:site" content="{{ site.url }}" />
-		<meta name="twitter:creator" content="{{ site.author }}" />
-		<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-		<meta property="og:title" content="{% if page.title %}{{ page.title }}{% elsif post.title %}{{ post.title }}{ % else %}{{ site.title }}{% endif %}" />
-		<meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif post.description %}{{ post.description }}{ % else %}{{ site.description }}{% endif %}" />
-		<meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}{{ post.image }}{% endif %}" />
+<head>
+	<!-- tech -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml"
+		title="{{ site.title }} Blog Feed" />
 
-		<!-- page -->
-		<title>{{ site.title }} :: {{ site.tag_line }}</title>
-		<meta name="author" content="{{ site.author }}">
-		<meta name="description" content="{{ site.description }}">
-		<meta name="keywords" content="{{ site.keywords }}">
-	</head>
+	<!-- open graph -->
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="{{ site.url }}" />
+	<meta name="twitter:creator" content="{{ site.author }}" />
+	<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+	<meta property="og:title"
+		content="{% if page.title %}{{ page.title }}{% elsif post.title %}{{ post.title }}{ % else %}{{ site.title }}{% endif %}" />
+	<meta property="og:description"
+		content="{% if page.description %}{{ page.description }}{% elsif post.description %}{{ post.description }}{ % else %}{{ site.description }}{% endif %}" />
+	<meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}{{ post.image }}{% endif %}" />
 
-	<body>
-		<div id="container">
+	<!-- page -->
+	<title>{{ site.title }} :: {{ site.tag_line }}</title>
+	<meta name="author" content="{{ site.author }}">
+	<meta name="description" content="{{ site.description }}">
+	<meta name="keywords" content="{{ site.keywords }}">
+
+	<!-- styles -->
+	<link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+
+<body>
+	<div id="container">
+
+		<header>
 			<div id="header" class="grey">
 				<p><strong><a href="{{ site.url }}">{{ site.title }}</a></strong> | {{ site.tag_line }}</p>
 			</div>
-
-			<div id="content">
-				{{ content }}
+		</header>
+		
+		<section>
+			<div class="center grey">
+				<p xmlns:cc="http://creativecommons.org/ns#" >
+					Este obra está licenciado com uma licença <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">CC BY-NC 4.0</a>
+				</p>
 			</div>
+		</section>
 
-			<div id="footer" class="grey">
-				<ul class="navigation">
-					<li><a href="{{ site.url }}">início</a></li>
-					<li><a href="{{ site.url }}/sobre">sobre</a></li>
-					<li><a href="{{ site.url }}/categorias">categorias</a></li>
-					<li><a href="{{ site.url }}/arquivos">arquivos</a></li>
-					<li><a href="{{ site.url }}/contato">contato</a></li>
-				</ul>
-			</div>
+		<div id="content">
+			{{ content }}
 		</div>
-		<!-- styles -->
-		{% asset default.css @inline %}
-		{% asset main.css @inline %}
-	</body>
+
+		<footer>
+			<div id="footer" class="grey">
+				<nav>
+					<ul class="navigation">
+						<li><a href="{{ site.url }}">início</a></li>
+						<li><a href="{{ site.url }}/sobre">sobre</a></li>
+						<li><a href="{{ site.url }}/categorias">categorias</a></li>
+						<li><a href="{{ site.url }}/arquivos">arquivos</a></li>
+						<li><a href="{{ site.url }}/contato">contato</a></li>
+					</ul>
+				</nav>
+			</div>
+		</footer>
+	</div>
+</body>
+
 </html>

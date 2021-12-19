@@ -1,16 +1,30 @@
 ---
 layout: page
-title: Arquivos
 ---
 
-{% assign postsByMonthYear = site.posts | group_by_exp: "post", "post.date | date: '%b %Y'" %}
-{% for monthYear in postsByMonthYear %}
-	<h2 class="grey">{{ monthYear.name }}</h2>
-	<ul class="archive">
-	  {% for post in monthYear.items %}
-	    <li><span class="grey">{{ post.date | date: "%d" }}</span> <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
-{% endfor %}
+<header>
+    <h1><a href="{{ page.url }}">Arquivos</a></h1>
+</header>
 
+<br>
+
+<main>
+	{% assign postsByMonthYear = site.posts | group_by_exp: "post", "post.date | date: '%b %Y'" %}
+	{% for monthYear in postsByMonthYear %}
+	<section>
+		<header>
+			<h2 class="grey">{{ monthYear.name }}</h2>
+		</header>
+		<nav>
+			<ul class="archive">
+				{% for post in monthYear.items %}
+				<li><span class="grey">{{ post.date | date: "%m.%Y" }}</span> <a href="{{ site.url }}{{ post.url }}">{{ post.title	}}</a></li>
+				<br>
+				{% endfor %}
+			</ul>
+			<br>
+		</nav>
+	</section>
+	{% endfor %}
+</main>
 <hr>

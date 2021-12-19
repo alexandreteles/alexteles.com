@@ -1,12 +1,3 @@
-@import url('//fonts.googleapis.com/css?family=Roboto|Roboto+Mono');
-
-/*
-title: Main Stylesheet;
-author: Paul Mostowyj;
-scope: global styles for all content;
-*/
-
-
 /* ------- global styles ------- */
 * {
 	box-sizing: border-box;
@@ -22,19 +13,22 @@ html, body {
 	height: 100%;
 	width: 100%;
 
-	background-color: rgb(0, 0, 0);
-	color: rgb(255, 255, 255);
+	background-color: rgb(20, 20, 20);
+	color: rgb(215, 215, 215);
 
-	font-family: 'Roboto', sans-serif;
-	font-size: 16px;
+	font: 22px/1.2 "Helvetica Neue", "Noto Sans", "Arial";
 }
 
 img {
 	max-width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 h1 {
 	text-align: center;
+	font-size: 26px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -65,7 +59,7 @@ a {
 }
 
 a:hover {
-	color: rgb(55, 55, 55);
+	color: rgb(105, 105, 105);
 }
 
 blockquote, table, form {
@@ -95,7 +89,7 @@ tr, th, td {
 }
 
 th {
-	background-color: rgb(15, 15, 15);
+	background-color: rgb(20, 20, 20);
 }
 
 form, fieldset {
@@ -121,7 +115,7 @@ textarea, [type="text"], select {
 
 [type=submit], [type=reset], [type=button] {
 	padding: 0.5em;
-	background-color: rgb(15, 15, 15);
+	background-color: rgb(20, 20, 20);
 	color: inherit;
 	border: solid 1px rgb(105, 105, 105);
 }
@@ -149,16 +143,18 @@ hr {
 }
 
 .grey {
-	color: rgb(55, 55, 55);
+	color: rgb(85, 85, 85);
 }
 
 .grey a:hover {
-	color: rgb(255, 255, 255);
-	border-bottom-color: rgb(255, 255, 255);
+	color: rgb(215, 215, 215);
+	border-bottom-color: rgb(215, 215, 215);
 }
 
 .archive {
-	list-style: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
 }
 
 /* ------- navigation styles ------- */
@@ -188,8 +184,8 @@ hr {
 }
 
 /* ------- media queries ------- */
-@media screen and (min-width: 560px) {
+@media screen and (min-width: 960px) {
 	body {
-		font-size: 18px;
+		font-size: 22px;
 	}
 }

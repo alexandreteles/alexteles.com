@@ -7,6 +7,11 @@ url: https://alexteles.com
 author: Alexandre Teles
 author_url: http://alexteles.com
 
+# includes
+
+include:
+  - ".well-known"
+
 # preferences
 markdown: kramdown
 highlighter: rouge
@@ -19,7 +24,6 @@ kramdown:
 # plugins
 plugins:
   - jekyll-feed
-  - jekyll-assets
   - jekyll-minifier
 
 # building
@@ -43,33 +47,24 @@ defaults:
     values:
       layout: "category"
 
-# jekyll-assets
-source_maps: false
-compression: true
-gzip: false
-caching:
-  path: ".jekyll-cache/assets"
-  type: file
-  enabled: false
-
 # jekyll-minifier
-  preserve_php: false
-  remove_spaces_inside_tags: true
-  remove_multi_spaces: true
-  remove_comments: true
-  remove_intertag_spaces: true
-  remove_quotes: true
-  compress_css: true
-  compress_javascript: true
-  simple_doctype: false
-  remove_script_attributes: false
-  remove_style_attributes: false
-  remove_link_attributes: false
-  remove_form_attributes: false
-  remove_input_attributes: false
-  remove_javascript_protocol: false
-  remove_http_protocol: true
-  remove_https_protocol: false
-  preserve_line_breaks: false
-  simple_boolean_attributes: false
-  compress_js_templates: true
+preserve_php: false
+remove_spaces_inside_tags: true
+remove_multi_spaces: true
+remove_comments: true
+remove_intertag_spaces: true
+remove_quotes: true
+compress_css: true
+compress_javascript: true
+simple_doctype: false
+remove_script_attributes: false
+remove_style_attributes: false
+remove_link_attributes: false
+remove_form_attributes: false
+remove_input_attributes: false
+remove_javascript_protocol: false
+remove_http_protocol: true
+remove_https_protocol: false
+preserve_line_breaks: false
+simple_boolean_attributes: false
+compress_js_templates: true

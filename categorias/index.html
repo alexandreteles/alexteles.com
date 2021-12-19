@@ -1,17 +1,31 @@
 ---
 layout: page
-title: Categorias
 ---
 
-{% assign sorted_categories = site.categories | sort %}
-{% for category in sorted_categories %}
-    {% assign sorted_posts = category[1] | reversed %}
-	<h2 class="grey">{{ category[0] }}</h2>
-	<ul class="archive">
-        {% for post in sorted_posts %}
-	    <li><span class="grey">{{ post.date | date: "%d" }}</span> <a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a></li>
-	    {% endfor %}
-	</ul>
-{% endfor %}
+<header>
+    <h1><a href="{{ page.url }}">Categorias</a></h1>
+</header>
+
+<br>
+
+<main>
+	{% assign sorted_categories = site.categories | sort %}
+	{% for category in sorted_categories %}
+	<section>
+		{% assign sorted_posts = category[1] | reversed %}
+		<header>
+			<h2 class="grey">{{ category[0] }}</h2>
+		</header>
+		<nav>
+			<ul class="archive">
+				{% for post in sorted_posts %}
+				<li><span class="grey">{{ post.date | date: "%m.%Y" }}</span> <a href="{{ site.url }}/{{ post.url }}">{{
+						post.title }}</a></li>
+				{% endfor %}
+			</ul>
+		</nav>
+	</section>
+	{% endfor %}
+</main>
 
 <hr>

@@ -4,7 +4,8 @@ title: "A Última Missa em Latim"
 description: "O rito novo dissipa o velho, a realidade dissipa as sombras como o dia dissipa a noite..."
 image: "https://i.imgur.com/7lXgRGJ.jpg"
 date: 2016-06-10 22:41:13 -0300
-categories: liturgia
+author: Alexandre Teles (afterSt0rm)
+category: liturgia
 ---
 
 – Foi tão bonito, Pai. Foi tão bonita a tua presença. Tanta felicidade, que não havia como acreditar no que estava acontecendo. Algumas vezes, parecia que tuas bênçãos derramavam-se sobre nós. Em outras, nem sei como dizer isto, mas julguei que as pessoas olhavam para mim como se desejassem estar no meu lugar. Ou seria um pouco de vaidade tomando conta de mim? Perdoa-me, meu Pai, pois até um pobre homem como eu também fica sujeito a essas fraquezas.

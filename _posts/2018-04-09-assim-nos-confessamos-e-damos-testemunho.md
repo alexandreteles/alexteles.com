@@ -4,7 +4,8 @@ title: "Assim nós confessamos e damos testemunho"
 description: "Declaração Final da Conferência 'Igreja Católica, para onde caminhas?'"
 image: "https://i.imgur.com/6gTmTDI.jpg"
 date: 2018-04-09 22:41:13 -0300
-categories: igreja
+author: Alexandre Teles (afterSt0rm)
+category: doutrina
 ---
 
 **Declaração Final da Conferência "Igreja Católica, para onde caminhas?"**

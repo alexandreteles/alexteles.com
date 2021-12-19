@@ -4,7 +4,10 @@ title: "O que dizem os santos sobre o carnaval e a necessária reparação"
 description: "Porque a antiga serpente foi sufocada por estas pérolas, feitas da Palavra de Deus..."
 image: "https://i.imgur.com/Cv9mD6I.jpg"
 date: 2016-01-31 22:41:13 -0300
-categories: sociedade
+author: Alexandre Teles (afterSt0rm)
+categories:
+ - sociedade
+ - doutrina
 ---
 
 Carnaval é tempo dos espetáculos profanos, dos bailes de mascarados, das danças e orgias que se multiplicam nas vésperas da Quaresma, mormente nos três dias antes da Quarta-feira de Cinzas. Perder tempo, exagerar as despesas, fazer da barriga seu deus, fingir que está alegre, encher a alma com imagens e pensamentos indecentes, avivar o fogo das paixões, atirar-se de caso pensado aos maiores perigos… não será isto diretamente oposto ao Cristianismo que prescreve o bom uso do tempo, prudente economia, a temperança, a vigilância nos sentidos, a mortificação das paixões e a fuga dos perigos? Deixam após si, estes dias de pecados: tantas vítimas de impureza, de embriaguez e milhares de famílias na vergonha e na miséria.

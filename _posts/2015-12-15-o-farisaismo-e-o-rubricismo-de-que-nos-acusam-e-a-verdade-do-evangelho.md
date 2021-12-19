@@ -4,7 +4,8 @@ title: "O farisaísmo e o rubricismo de que nos acusam e a verdade do evangelho"
 description: "[…] Sê fiel até a morte e te darei a coroa da vida."
 image: "https://i.imgur.com/7DaD2tN.jpg"
 date: 2015-12-15 22:41:13 -0300
-categories: doutrina
+author: Alexandre Teles (afterSt0rm)
+category: doutrina
 ---
 
 *“As palavras dessa gente destroem como a gangrena. Entre eles estão Himeneu e Fileto, que se desviaram da verdade dizendo que a ressurreição já aconteceu e transtornaram a fé em alguns. Contudo, o sólido fundamento de Deus se mantém firme, porque vem selado com estas palavras: O Senhor conhece os que são seus (Nm 16,5); e: Renuncie à iniqüidade todo aquele que pronuncia o nome do Senhor (Is 26,13).”* II Timóteo 2, 17-19

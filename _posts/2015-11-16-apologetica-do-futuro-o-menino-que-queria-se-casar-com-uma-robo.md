@@ -4,7 +4,8 @@ title: "Apologética do Futuro: o menino que queria se casar com uma robô"
 description: "Os protagonistas da aliança matrimonial são um homem e uma mulher batizados..."
 image: "https://i.imgur.com/xrH4vzY.jpg"
 date: 2015-12-03 22:41:13 -0300
-categories: apologetica
+author: Alexandre Teles (afterSt0rm)
+category: apologetica
 ---
 
 Definitivamente não é fácil ser um padre católico nestes tempos. São cinquenta anos de ordenação, oitenta de católico e mais de 100 anos de vida seu Manoel. Estamos no ano 2100 e o povo ainda me aparece com essas perguntas absurdas? Ah seu Manoel, parece o tempo em que os Católicos discutiam se homem pode casar com homem, vê se pode? Hoje mesmo apareceu um jovenzinho aqui na paróquia, disse que queria conversar. Eu o recebi no meu escritório e eis que ele começa:

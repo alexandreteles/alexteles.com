@@ -4,7 +4,8 @@ title: "Apologética do Futuro – 'porque tive fome e me destes de comer…'"
 description: "Mesmo com a sede e a fome estava lá, fiel ao ministério de orar pelo povo e pelo mundo..."
 image: "https://i.imgur.com/XHOQDYX.jpg"
 date: 2016-07-02 22:41:13 -0300
-categories: apologetica
+author: Alexandre Teles (afterSt0rm)
+category: apologetica
 ---
 
 Sabe seu Manoel, lá pelos idos dos anos 2016 eu ainda tinha alguma esperança de que as coisas iriam melhorar. Eram tempos difíceis, o senhor bem se lembra… Eu, que nessas alturas ainda era um jovem estudante, achava que a tecnologia seria a grande graça dada por Deus para vivermos bem nesse mundo. Olha só, que tristeza: acreditando nas obras dos homens. O senhor sabe que eu cheguei a militar nessas causas? Acreditava piamente que a fome acabaria, que as doenças deixariam de existir. O fato é, cá estamos no ano 2100 e as coisas só pioraram. Aliás, melhoraram só para os abastados…

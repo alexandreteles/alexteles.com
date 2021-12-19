@@ -4,7 +4,8 @@ title: "Missas de cura e libertação, o que diz a Igreja?"
 description: "Roma jamais promulgou um próprio para uma Missa deste tipo."
 image: "https://i.imgur.com/Oh95DuR.jpg"
 date: 2015-12-03 22:41:13 -0300
-categories: liturgia
+author: Alexandre Teles (afterSt0rm)
+category: liturgia
 ---
 
 Para os que tem preguiça, um resumo: Missa de cura e libertação NÃO PODE.
